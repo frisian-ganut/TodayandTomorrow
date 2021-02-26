@@ -17,7 +17,7 @@
 <table border = "0" width = "1300" height = "500" align = "center" cellspacing = "4" cellpadding = "7" align = "center">
 <tr height = "50">
 <td width = "580"><img src = "logo.jpg" width = "50" alt = "logo"></td>
-	<td align = "center" width = "150" height = "50"><a href = "homepage.php" title = "Go to Home"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white;"><font size = "4"><b>HOME</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "index.php" title = "Go to Home"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white;"><font size = "4"><b>HOME</b></font></button></a></td>
 
 	<td align = "center" width = "150" height = "50"><a href = "today.php" title = "Go to Today"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TODAY</b></font></button></a></td>
 	
